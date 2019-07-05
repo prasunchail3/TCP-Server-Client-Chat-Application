@@ -19,4 +19,4 @@ Implementing a multi client, single server chat service on TCP
   2. i message <Enter, Ctrl + D> : Client sends message to Client numbered 'i'
   3. q <Enter, Ctrl + D> : Client terminates connection to server
   
-#### Client is numbered the moment connection is established with the server. It is shown as : (i) 
+#### Client is numbered the moment connection is established with the server. It is shown in round brackets
