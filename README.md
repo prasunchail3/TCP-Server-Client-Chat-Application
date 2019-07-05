@@ -5,8 +5,8 @@ Implementing a multi client, single server chat service on TCP
   gcc -pthread program.c -o program
 
 ## Execution: 
-  ./server port_no max_connections_allowed
-  ./client IP_address port_no
+  1. ./server port_no max_connections_allowed
+  2. ./client IP_address port_no
              
 ## Commands for Server: 
   1. 0 message <Enter, Ctrl + D> : Broadcast a message to all the clients
